@@ -6,4 +6,15 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="hello_foo_fragment">Hello foo fragment</string>
+    <string name="hello_bar_fragment">Hello bar fragment</string>
+    <string name="hello_baz_fragment">Hello baz fragment</string>
+    <string name="hello_foo_bar_fragment">Hello foo bar fragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_to_foo"><![CDATA[Top -> Foo]]></string>
+    <string name="top_to_bar"><![CDATA[Top -> Bar]]></string>
+    <string name="bottom_to_foo"><![CDATA[Bottom -> Foo]]></string>
+    <string name="bottom_to_bar"><![CDATA[Bottom -> Bar]]></string>
 </resources>
